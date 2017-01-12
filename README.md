@@ -13,7 +13,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 git clone https://github.com/saeedsabet/PvRsani.git
 
-cd Black-Support-Bot
+cd PvRsani
 
 screen
 
@@ -27,7 +27,7 @@ chmod +x launch.sh
 
 /setrealm
 
-/startmsg BlackSuppport Bot
+/startmsg PvRsani
 
 /donemsg Send!
 
