@@ -34,5 +34,5 @@ chmod +x launch.sh
 
 تمام:)
 * * *
- Developer > [MehdiHS](https://Telegram.me/MehdiHS) | 
- [Channel](https://Telegram.me/Black_CH)
+ Developer > [saeed](https://Telegram.me/As_crazy) | 
+ [Channel](https://Telegram.me/Giant_team)
