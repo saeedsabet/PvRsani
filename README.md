@@ -11,9 +11,9 @@ sudo apt-get update
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 
-git clone https://github.com/Mehdi-HS/Black-Support-Bot.git
+git https://github.com/saeedsabet/PvRsani.git
 
-cd Black-Support-Bot
+cd PvRsani
 
 screen
 
@@ -27,12 +27,12 @@ chmod +x launch.sh
 
 /setrealm
 
-/startmsg BlackSuppport Bot
+/startmsg PvRsani
 
 /donemsg Send!
 
 
 تمام:)
 * * *
- Developer > [MehdiHS](https://Telegram.me/MehdiHS) | 
- [Channel](https://Telegram.me/Black_CH)
+ Developer > [saeed-Dr](https://Telegram.me/As_crazy) | 
+ [Channel](https://Telegram.me/Giant_team)
